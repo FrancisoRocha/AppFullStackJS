@@ -1,6 +1,9 @@
 // ENVIRONMENT VARIABLES
 .env
 
+//MODULES
+node_modules
+
 
 // PORT
 // DATABASE_URL
